@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://suzannemccormickp.github.io/sitemap.xml
